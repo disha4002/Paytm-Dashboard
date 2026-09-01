@@ -21,9 +21,11 @@ The analysis shows that Paytm's transaction activity is relatively consistent th
 
 ## Key Insights 
 High transaction volume:
+<br>
 The dashboard records approximately 3.47 billion total transactions across 108K users, indicating a very large transaction base.
 <br>
 Monthly transaction trend:
+<br>
 Transaction activity remains relatively stable around 280–300M per month.
 <br>
 June is the strongest month, reaching approximately 300M transactions.
@@ -31,11 +33,13 @@ June is the strongest month, reaching approximately 300M transactions.
 February records one of the lowest levels at around 279M, followed by a recovery in March.
 <br>
 Weekend vs weekday activity:
+<br>
 Weekdays account for approximately 71.58% of transactions.
 <br>
 Weekends contribute around 28.42%, showing that transaction activity is considerably higher during weekdays.
 <br>
 Services drive different levels of activity:
+<br>
 Loans dominate transaction activity by a significant margin, with approximately 2.53B transactions.
 <br>
 Insurance follows at around 512.9M, while Money Transfer and Recharge contribute substantially less.
@@ -43,11 +47,13 @@ Insurance follows at around 512.9M, while Money Transfer and Recharge contribute
 This indicates that the Loans category is the primary driver of transaction volume in the dataset.
 <br>
 User demographics:
+<br>
 The dashboard shows a fairly balanced distribution among the major age segments.
 <br>
 Gen X and Millennials each represent roughly 37% of users, while Gen Z and Boomers account for the remaining share.
 <br>
 Transaction status:
+<br>
 Successful transactions make up the overwhelming majority across the months.
 <br>
 Failed, insufficient-amount, server-error and wrong-PIN transactions represent comparatively small portions of overall activity.
