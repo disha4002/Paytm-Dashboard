@@ -20,11 +20,11 @@ The analysis shows that Paytm's transaction activity is relatively consistent th
 ![image alt](https://github.com/disha4002/Paytm-Dashboard/blob/f3160352f05bb2cf7184970434cb08e07af8665e/Paytm.png)
 
 ## Key Insights 
-High transaction volume:
+💰 High transaction volume:
 <br>
 The dashboard records approximately 3.47 billion total transactions across 108K users, indicating a very large transaction base.
 <br>
-Monthly transaction trend:
+📉 Monthly transaction trend:
 <br>
 Transaction activity remains relatively stable around 280–300M per month.
 <br>
@@ -32,13 +32,13 @@ June is the strongest month, reaching approximately 300M transactions.
 <br>
 February records one of the lowest levels at around 279M, followed by a recovery in March.
 <br>
-Weekend vs weekday activity:
+📅 Weekend vs weekday activity:
 <br>
 Weekdays account for approximately 71.58% of transactions.
 <br>
 Weekends contribute around 28.42%, showing that transaction activity is considerably higher during weekdays.
 <br>
-Services drive different levels of activity:
+⚡ Services drive different levels of activity:
 <br>
 Loans dominate transaction activity by a significant margin, with approximately 2.53B transactions.
 <br>
@@ -46,19 +46,19 @@ Insurance follows at around 512.9M, while Money Transfer and Recharge contribute
 <br>
 This indicates that the Loans category is the primary driver of transaction volume in the dataset.
 <br>
-User demographics:
+👥 User demographics:
 <br>
 The dashboard shows a fairly balanced distribution among the major age segments.
 <br>
 Gen X and Millennials each represent roughly 37% of users, while Gen Z and Boomers account for the remaining share.
 <br>
-Transaction status:
+⭐ Transaction status:
 <br>
 Successful transactions make up the overwhelming majority across the months.
 <br>
 Failed, insufficient-amount, server-error and wrong-PIN transactions represent comparatively small portions of overall activity.
 <br>
-Top users by transaction activity:
+📊 Top users by transaction activity:
 Michael Smith has the highest transaction count among the displayed users, at approximately 1.82M transactions.
 <br>
 Jennifer Williams follows with around 1.57M, while the remaining top users are clustered around 1.2–1.3M.
